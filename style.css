@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+  }
+
+body{
+  background:#80aaff;
+  text-align: center;
+  font-family: impact;
+}
+
+h1{
+  color:#ffff66;
+  font-size: 50px;
+}
+
+h2{
+  color:#ffff66;
+}
+
+p {
+  color:#ffff66;
+}
+
+input{
+  background: lightgrey;
+}
+
+img
+{
+  float: left;
+}
+
+#answer{
+  font-size: 50px;
+}
